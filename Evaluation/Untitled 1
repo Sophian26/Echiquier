@@ -1,0 +1,8 @@
+1- Changer les noms de variables (première lettre en minuscule);
+2- Passer les méthodes protected et static appelées ailleurs en public pour pouvoir y accéder;
+3- Passer la classe pièce en abstract;
+4- Remplacer les appels de variables par des getteurs;
+5- Supression des variables inutiles;
+6- Ajout d'une boite pour set les noms des deux joueurs;
+7- Reine ajoutée et fonctionnelle
+8- Ajout dans la méthode Piece.bouger() pour que les déplacements fonctionnent.
